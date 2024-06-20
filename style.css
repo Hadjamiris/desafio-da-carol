@@ -1,0 +1,30 @@
+
+
+h1{
+font-size: medium;
+
+}
+.bloco{
+    
+    display: none;
+    width: 10;
+    height: 90;
+}
+
+.caixa{
+   margin: 10px;
+   padding-inline: 30;
+
+}
+
+.botao{
+    margin: 10px;
+    height: 30;
+    width: 40;
+    margin: 50;
+}
+
+.fieldset{
+ color: white;
+}
+
