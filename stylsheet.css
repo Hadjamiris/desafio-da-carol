@@ -1,0 +1,34 @@
+body{
+
+    margin: 10;
+    background-color: blueviolet;
+}
+
+h1{
+font-size: medium;
+
+}
+.bloco{
+    
+
+    width: 10;
+    height: 90;
+    
+}
+
+.caixa{
+   margin: 10px;
+   padding-inline: 30;
+
+}
+
+.botao{
+    border: 100;
+}
+
+.tudo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
